@@ -1,0 +1,25 @@
+
+  This will demonstrate the use of CheckSum's to verify whether or not your
+  compiled application has been modified.
+
+ 1. Open the Project1.vbp
+
+ 2. Read through the source and once your happy there is no virus etc compile
+    Project1.exe
+
+ 3. Open the ProjectEditor.vbp found in the 'Editor' folder
+
+ 4. Run the project following the directions on the form (copied here for interest)
+
+   1. Locate the directory where you compiled Project1.exe              (Button Click)
+    
+   2. Modify the source to Project1.exe and resave as Project2.exe      (Button Click)
+
+   3. Execute the original Project1.exe -> see result                   (Button Click)
+    
+   4. Execute the Modified Project1.exe (Now saved as project2.exe) -> see result 
+                                                                        (Button Click)
+
+   Thats it we are done.
+
+   Hope this helped you in some way!
